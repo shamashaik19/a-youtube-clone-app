@@ -8,4 +8,4 @@ spec:
   - port: 3000
     targetPort: 80
   selector:
-    name: youtube-clone-app
+    app: youtube-clone-app
